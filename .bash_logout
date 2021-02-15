@@ -1,0 +1,1 @@
+/home/sven/.bash_logout
