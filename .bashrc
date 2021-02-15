@@ -1,1 +1,1 @@
-/home/sven/.bashrc
+../../.bashrc

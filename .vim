@@ -1,1 +1,1 @@
-/home/sven/.vim
+../../.vim/
