@@ -24,6 +24,7 @@ Plug 'tpope/vim-repeat'
 Plug 'junegunn/fzf'
 Plug 'vim-airline/vim-airline'
 Plug 'preservim/vimux'
+Plug 'easymotion/vim-easymotion'
 
 " Initialize plugin system
 call plug#end()
@@ -33,3 +34,6 @@ let g:airline#extensions#tabline#enabled = 1
 
 " Prompt for a command to run
 map <leader>vp :VimuxPromptCommand<cr></cr></leader>
+
+" vim-easymotion
+map ö <Plug>(easymotion-prefix)
